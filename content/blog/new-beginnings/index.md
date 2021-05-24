@@ -1,6 +1,6 @@
 ---
 title: New Beginnings
-date: 2015-05-28T22:40:32.169Z
+date: Thu May 28 2015 15:40:32 GMT-0700 (Pacific Daylight Time)
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
@@ -9,8 +9,6 @@ Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.
 
-cool
-<br>
 ## <span class="colour" style="color:rgb(206, 145, 120)">On deer horse aboard tritely yikes and much</span>
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
@@ -115,4 +113,4 @@ new content - 1621202162716
 
 new content - 1621203224444
 
- new content - 1621869755194
+new content - 1621869755194
